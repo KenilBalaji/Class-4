@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stranger Things....</title>
+</head>
+<body>
+    <h1>Stranger Things....</h1>
+    <h3>dvkro</h3>
+    <h2>Audio</h2>
+    <audio controls auto><source src="noooooo.mp3"type="audio/mpeg" >Your Weird Browser Doesn't Like Audio Tag!!!</audio>
+    <h2>Gif</h2>
+    <div class="tenor-gif-embed" data-postid="1024010368908758235" data-share-method="host" data-aspect-ratio="0.726908" data-width="100%"><a href="https://tenor.com/view/laughing-baby-gif-1024010368908758235">Laughing Baby GIF</a>from <a href="https://tenor.com/search/laughing+baby-gifs">Laughing Baby GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <h2>Video You Got Rickrolled</h2>
+    <video width="320" height="240" controls>
+        <source src="rickroll.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <iframe src="https://www.youtube.com/watch?v=BLXQO1FVj3w" frameborder="10" style="width: 60; height:30 ;"></iframe>
+
+</body>
+</html>
